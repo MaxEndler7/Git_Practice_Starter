@@ -4,6 +4,9 @@
 - Student A: Max Endler
 - Student B: Renzo Widjaja
 
+## Class
+Information Systems 424: Prof. Samer Khasawneh
+
 ## Branch Work
 Describe what you changed on the feature branch.
 
