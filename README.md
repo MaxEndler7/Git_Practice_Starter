@@ -2,7 +2,7 @@
 
 ## Team
 - Student A: Max Endler
-- Student B: Renzo Widjaja
+- Student B:  Renzo Widjaja
 
 ## Class
 Information Systems 424: Prof. Samer Khasawneh
