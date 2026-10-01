@@ -1,1 +1,3 @@
 Project Notes: We are currently exploring how to clone repositories and push and pull from GitHub. 
+
+Project Notes: We are continuing the Collaboration Cycle.
